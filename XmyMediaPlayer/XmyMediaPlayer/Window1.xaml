@@ -1,0 +1,7 @@
+﻿<Window x:Class="XmyMediaPlayer.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        AllowsTransparency="True" WindowStyle="None" Background="Transparent">
+    <Button x:Name="SystemIcon"  Style="{StaticResource SysIconStyle}" Height="80" Width="80"></Button>
+
+</Window>

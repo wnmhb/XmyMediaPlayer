@@ -1,0 +1,14 @@
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.Controls.dll
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.Controls.pdb
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\Themes\Generic.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls_MarkupCompile.cache
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls_MarkupCompile.lref
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\MessageBox\MessageBoxStyle.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\Window\CustomChromeWindowStyle.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\Window\CustomSimpleWindowStyle.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls.g.resources
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls.Properties.Resources.resources
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls.csproj.GenerateResource.Cache
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls.dll
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer.Controls\obj\x86\Debug\XmyMediaPlayer.Controls.pdb
