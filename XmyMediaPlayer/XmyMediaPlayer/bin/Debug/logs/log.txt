@@ -1,0 +1,75 @@
+2014-12-12 14:54:04,531 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:09:03,901 [ 1] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:09:58,958 [ 1] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:12:35,584 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:20:34,751 [ 8] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:46:43,610 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:47:17,842 [ 8] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:47:32,307 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:52:27,708 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 15:52:40,500 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:17:46,565 [11] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:18:30,783 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:24:26,663 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:25:36,718 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:25:57,601 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:30:03,607 [ 1] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:42:44,265 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:46:04,043 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 16:50:53,114 [ 1] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:11:31,367 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:12:31,902 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:13:45,586 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:18:26,300 [ 8] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:20:07,658 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:21:27,720 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:22:25,712 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:23:11,677 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:24:02,493 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:24:45,204 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:29:49,713 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:30:46,868 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:31:34,665 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:31:58,192 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:33:03,891 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:34:48,553 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:36:44,789 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:37:15,129 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:37:44,456 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:39:00,961 [ 8] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:39:50,842 [ 8] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:41:36,324 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:42:26,652 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:44:36,090 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:45:20,401 [ 8] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:46:21,922 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:48:33,842 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:49:14,470 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:50:37,307 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:52:16,772 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:52:45,770 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:53:14,448 [11] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:53:44,139 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:54:02,149 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:56:35,081 [11] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 17:59:03,732 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:04:38,320 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:05:24,709 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:06:17,855 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:08:13,687 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:11:33,060 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:13:26,443 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:17:16,076 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:19:53,304 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:20:15,091 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:20:55,965 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:21:54,573 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:22:46,267 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:23:57,847 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:24:36,066 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:25:14,799 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-12 18:25:31,971 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-16 08:51:34,724 [ 1] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-16 11:14:51,970 [ 9] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-16 11:15:13,691 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>
+2014-12-16 11:15:28,474 [10] INFO  XmyMediaPlayer.App: ==Startup=====================>>>

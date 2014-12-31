@@ -1,0 +1,9 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/XmyMediaPlayer.Controls;component/Window/CustomChromeWindowStyle.xaml"/>
+        <ResourceDictionary Source="/XmyMediaPlayer.Controls;component/Window/CustomSimpleWindowStyle.xaml"/>
+        <ResourceDictionary Source="/XmyMediaPlayer.Controls;component/MessageBox/MessageBoxStyle.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

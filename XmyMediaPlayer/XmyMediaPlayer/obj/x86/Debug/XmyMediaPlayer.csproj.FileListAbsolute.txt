@@ -1,0 +1,38 @@
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.exe
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.pdb
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.Controls.dll
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.Controls.pdb
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\Resources\Styles\SliderStyle.baml
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\App.baml
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\App.g.cs
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer_MarkupCompile.cache
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer_MarkupCompile.lref
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\Resources\Styles\ResLibary.baml
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.g.resources
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.Properties.Resources.resources
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.exe
+C:\Users\wnmhb\Documents\Visual Studio 2010\Projects\WnmMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.pdb
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.exe
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.pdb
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.exe
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.pdb
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.csprojResolveAssemblyReference.cache
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\Resources\Styles\SliderStyle.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\App.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\MainWindow.g.cs
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\App.g.cs
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer_MarkupCompile.cache
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer_MarkupCompile.lref
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\MainWindow.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\Resources\Styles\ResLibary.baml
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.g.resources
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.Properties.Resources.resources
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\XmyMediaPlayer.csproj.GenerateResource.Cache
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.exe.config
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\工作\code\XmyMediaPlayer\XmyMediaPlayer\bin\Debug\XmyMediaPlayer.Controls.pdb
